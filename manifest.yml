@@ -4,10 +4,6 @@ applications:
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-<<<<<<< Upstream, based on ac9ab79c6986d1ea0bdf88c003e91fc948d6983b
-    CONVERSATION_WORKSPACE_ID: 4abe8293-b7a5-481f-ac5b-b4cb894a8e30
-    CAR_SERVICE_HOST: robotcar-test1.mybluemix.net
-=======
     CONVERSATION_WORKSPACE_ID: cde599b1-b15f-4f05-9897-1a61d986bbfe
     CAR_SERVICE_HOST: webchatbotcar.mybluemix.net
->>>>>>> 03c01fb Updated manifest file
+
