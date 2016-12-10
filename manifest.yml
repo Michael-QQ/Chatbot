@@ -1,9 +1,9 @@
 ---
 applications:
-- name: innovationday-chatbot-wuhan
+- name: BJ-Innovation-Day-Chatbot
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: cde599b1-b15f-4f05-9897-1a61d986bbfe
-    CAR_SERVICE_HOST: webchatbotcar.mybluemix.net
+    CONVERSATION_WORKSPACE_ID: c085e398-1215-4a25-98a4-8d14a238716c
+    CAR_SERVICE_HOST: BJ-Innovation-Day-Car.mybluemix.net
 
